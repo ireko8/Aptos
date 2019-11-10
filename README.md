@@ -2,7 +2,9 @@
 https://www.kaggle.com/c/aptos2019-blindness-detection/
 
 Solution overview
+![solution](https://raw.githubusercontent.com/koreisis/Aptos/master/Kaggle%20APTOS%2020th%20solution.png)
 
-Details are described in below (in Japanese)
+The details are described below in Japanese.
+
 http://ireko8.hatenablog.com/entry/2019/09/27/031720
 
